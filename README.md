@@ -14,19 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
--->
-
-<a href="https://t.me/zelenkovskii">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-
 <a href="https://vk.com/your_profile">
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
 <a href="https://twitter.com/your_profile">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/sergei-zelenkovskii-347b82171">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/zelenkovskii">
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
@@ -34,10 +26,17 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/sergeivladimirovich975">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+-->
+
+<a href="https://t.me/zelenkovskii">
+  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://www.linkedin.com/in/sergei-zelenkovskii-347b82171">
+  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 <br />
 
-Привет, меня зовут ВАШЕ ИМЯ, я студент. Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.
+Меня зовут Зеленковский Сергей, я студент. Сейчас учусь на Python разработчика, изучаю Git и ещё несколько интересных технологий.
 
 <br />
 <!--
