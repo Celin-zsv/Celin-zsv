@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ПРИВЕТ всем)
 
 <!--
 **Celin-zsv/Celin-zsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### ПРИВЕТ всем)
+
 <a href="https://t.me/zelenkovskii">
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 ### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
