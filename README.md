@@ -1,61 +1,42 @@
-### Hi there 👋 Привет всем)
+# Hi there 👋 My name is Sergei
 
-<!--
-**Celin-zsv/Celin-zsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I have experience as an analyst (Software Requirements Specification) and developer (Python, Django, DRF, FastAPI, Flask, SQL)
 
-Here are some ideas to get you started:
+📫 How to reach me: 
+<div id="badges">
+    <a href="https://t.me/zelenkovskii">
+      <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+    <a href="https://www.linkedin.com/in/sergei-zelenkovskii-347b82171">
+      <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    </a>  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://vk.com/your_profile">
-  <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
-</a>
-<a href="https://twitter.com/your_profile">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://t.me/zelenkovskii">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/sergeivladimirovich975">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
--->
+---
 
-<a href="https://t.me/zelenkovskii">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-<a href="https://www.linkedin.com/in/sergei-zelenkovskii-347b82171">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+### 💻 Technology stack:
+<div>
+  <a href="https://www.python.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
+  </a>
+  <a href="https://docs.djangoproject.com/en/4.2/">
+    <img src="files/images/django.png" title="django" alt="django" width="40" height="40"/>&nbsp
+  </a>
+  <a href="https://fastapi.tiangolo.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" title="fast api" alt="fast api" width="40" height="40"/>&nbsp
+  </a>
 
-<br >
-Меня зовут Зеленковский Сергей, имею опыт аналитика и разработчика. Изучаю Python, FastAPI, Flask, DRF, Django.
+  <a href="https://www.postgresql.org/docs/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="postgreSQL" alt="postgreSQL" width="40" height="40"/>&nbsp
+  </a>
+  <a href="https://docs.docker.com/desktop/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp
+  </a>
+  <a>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp
+  </a>
+  <a href="https://git-scm.com/book/ru/v2">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  </a>
+</div>
 
-<br />
-<!--
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kalashnikov-ulmic/kalashnikov-ulmic/main/%D0%A3%D1%87%D1%83%D1%81%D1%8C%20%D0%BD%D0%B0%20Slurm.png?raw=true" width="400" height="280" />
--->  
-Languages and Tools:
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
- <!--
-🚧 **Мои задачи на ближайшее время:**
- TODO-IST:START 
-* [x] Прокачать свой профиль на Github
-* [ ] Пройти курс по Git на Slurm
-* [ ] Создать свой первый проект на Github       
-
-Отлично! Теперь у вас классно оформленный профиль на Github.
-
-Опциональная задача
-
-Мы советуем опубликовать ссылку на свой Github профиль в социальных сетях, чтобы друзья, которые подписаны на вас, имели возможность подписаться на обновления профиля и следили за вашими успехами в разработке. Не забудьте добавить к профилю #slurm, чтобы все остальные, кто проходит этот курс, могли увидеть ваш пост и подписались на вас.
--->
+---
