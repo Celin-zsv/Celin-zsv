@@ -61,6 +61,8 @@
   <img src="https://github.com/flathub/com.getpostman.Postman/blob/master/logo-mark.svg" width="40" height="40" title="postman" alt="postman">
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="38" height="38" title="GitHub" alt="GitHub">
   <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" width="40" height="40" title="stack overflow" alt="stack overflow">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" width="40" height="40" title="atom" alt="atom">
+  <img src="https://dbeaver.com/wp-content/themes/utouch/img/dbeaver_logo_bg.png" width="120" height="40" title="dbeaver" alt="dbeaver">
 </div>
 
   
