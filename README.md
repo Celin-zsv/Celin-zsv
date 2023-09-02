@@ -67,6 +67,9 @@
   <a href="https://en.wikipedia.org/wiki/Software_requirements_specification">
     <img src="https://previews.123rf.com/images/dizanna/dizanna2107/dizanna210701277/172014538-srs-software-requirements-specification-acronym.jpg" title="software-requirements-specification" alt="software-requirements-specification" width="110" height="40"/>&nbsp
   </a>
+  <a href="https://docs.scrapy.org/en/latest/index.html">
+    <img src="https://img.stackshare.io/service/3116/LJ_Gsz28_400x400.png" title="scrapy" alt="scrapy" width="40" height="40"/>&nbsp
+  </a>
 
 ---
 
